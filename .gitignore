@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit local secrets (절대 올리지 마세요)
+.streamlit/secrets.toml
+
+# Mac / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build/Cache
+dist/
+build/
+.cache/
+
+venv/
+.env
+__pycache__/
+*.pyc
+*.pptx
+.streamlit/
+
+# Streamlit 비밀번호 파일 (매우 중요!)
+
+secrets.toml
+*.toml
+
+# Mac 시스템 파일
+.DS_Store
